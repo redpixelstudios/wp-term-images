@@ -12,6 +12,9 @@
 defined( 'ABSPATH' ) || exit;
 
 if ( ! class_exists( 'WP_Term_Images' ) ) :
+
+require_once dirname( __FILE__ ) . '/class-wp-term-meta-ui.php';
+
 /**
  * Main WP Term Images class
  *
