@@ -8,7 +8,7 @@
  * License:     GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Description: Pretty images for categories, tags, and other taxonomy terms.  Minor loading modifications made by Red Pixel Studios.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Text Domain: wp-term-images
  * Domain Path: /assets/lang/
  */
